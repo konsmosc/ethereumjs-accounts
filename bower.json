@@ -1,0 +1,22 @@
+{
+  "name": "ethereumjs-accounts",
+  "description": "A simple module for creating and managing ethereum accounts in browser.",
+  "main": "index.js",
+  "keywords": [
+    "web3",
+    "ethereum",
+    "accounts"
+  ],
+  "authors": [
+    "Nick Dodson"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/SilentCicero/ethereumjs-accounts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
