@@ -18,6 +18,8 @@ Please note that this module is still in Alpha. The security status of this modu
 
 ```
 $ npm install ethereumjs-accounts
+or
+$ bower install ethereumjs-accounts
 ```
   
 ### Meteor.js
